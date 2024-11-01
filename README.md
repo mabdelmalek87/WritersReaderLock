@@ -1,4 +1,3 @@
-# WritersReaderLock
 To compile the program:
 - Run make, to compile all the files.
 - Make sure to include main.c, readerwriter.c, and readerwriter.h on the same directory.
